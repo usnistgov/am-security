@@ -2,13 +2,11 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.0 Map//EN" "map.dtd">
 <map>
     <title>Operational Technology Asset Management CSF Profile</title>
-    <topicref audience="general ot additive" href="topics/nist.gov/SP800-82r3/id.am.md" format="markdown">
-        <topicref>
+    <topicref href="topics/nist.gov/SP800-82r3/id.am.md" format="markdown">
+        <topicref href="topics/nist.gov/SP800-82r3/id.am-3.md" format="markdown" audience="general">
             <topicmeta>
                 <navtitle>ID.AM-3</navtitle>
             </topicmeta>
-            <topicref href="topics/nist.gov/SP800-82r3/id.am-3/general.md" format="markdown" processing-role="resource-only" />           
-            <topicref href="topics/nist.gov/SP800-82r3/id.am-3/ot.md" format="markdown" processing-role="resource-only"/>           
         </topicref>
     </topicref>
 </map>
