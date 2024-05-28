@@ -3,7 +3,7 @@
 <map>
     <title>Operational Technology Asset Management CSF Profile</title>
     <topicref href="topics/nist.gov/SP800-82r3/id.am.md" format="markdown">
-        <topicref href="topics/nist.gov/SP800-82r3/id.am-3.md" format="markdown" audience="general">
+        <topicref href="topics/nist.gov/SP800-82r3/id.am-3.md" format="markdown">
             <topicmeta>
                 <navtitle>ID.AM-3</navtitle>
             </topicmeta>
