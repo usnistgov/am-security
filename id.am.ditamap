@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.0 Map//EN" "map.dtd">
+<map>
+    <title>CSF 2.0: ID.AM</title>
+    <topicmeta>
+        <shortdesc></shortdesc>
+    </topicmeta>
+    <topicref>
+        <topicmeta>
+            <navtitle>Asset Management (ID.AM)</navtitle>
+            <shortdesc>Assets (e.g., data, hardware, software, systems, facilities, services, people) that enable the organization to achieve business purposes are identified and managed consistent with their relative importance to organizational objectives and the organization's risk strategy</shortdesc>
+        </topicmeta>
+        <topicref>
+            <topicmeta>
+                <navtitle>ID.AM-01</navtitle>
+                <shortdesc>Inventories of hardware managed by the organization are maintained</shortdesc>
+            </topicmeta>
+        </topicref>
+        <topicref>
+            <topicmeta>
+                <navtitle>ID.AM-02</navtitle>
+                <shortdesc>Inventories of software, services, and systems managed by the organization are maintained</shortdesc>
+            </topicmeta>
+        </topicref>
+        <topicref>
+            <topicmeta>
+                <navtitle>ID.AM-03</navtitle>
+                <shortdesc>Representations of the organization's authorized network communication and internal and external network data flows are maintained</shortdesc>
+            </topicmeta>
+        </topicref>
+        <topicref>
+            <topicmeta>
+                <navtitle>ID.AM-04</navtitle>
+                <shortdesc>Inventories of services provided by suppliers are maintained</shortdesc>
+            </topicmeta>
+        </topicref>
+        <topicref>
+            <topicmeta>
+                <navtitle>ID.AM-05</navtitle>
+                <shortdesc>Assets are prioritized based on classification, criticality, resources, and impact on the mission</shortdesc>
+            </topicmeta>
+        </topicref>
+        <topicref>
+            <topicmeta>
+                <navtitle>ID.AM-07</navtitle>
+                <shortdesc>Inventories of data and corresponding metadata for designated data types are maintained</shortdesc>
+            </topicmeta>
+        </topicref>
+        <topicref>
+            <topicmeta>
+                <navtitle>ID.AM-08</navtitle>
+                <shortdesc>Systems, hardware, software, services, and data are managed throughout their life cycles</shortdesc>
+            </topicmeta>
+        </topicref>
+    </topicref>
+</map>
