@@ -16,12 +16,13 @@
                 <navtitle>Asset Management Subcategories</navtitle>
             </topicmeta>
             <topicgroup>
-                <topicref href="topics/nist.gov/id.am-03.md" format="markdown"/>
-                <topicref href="topics/nist.gov/SP800-82r3/id.am-03.md" format="markdown"/>
+                <topicref href="topics/nist.gov/id.am-03.dita#s-id.am-03"/>
+                <topicref href="topics/nist.gov/SP800-82r3/id.am-03.dita#gen-id.am-03"/>
+                <topicref href="topics/nist.gov/SP800-82r3/id.am-03.dita#ot-id.am-03"/>
             </topicgroup>
         </topichead>
     </topicgroup>
-    <topicref>
+    <!--<topicref>
         <topicref href="topics/nist.gov/id.am.md" format="markdown"/>
         <topicref href="topics/nist.gov/SP800-82r3/id.am.md" format="markdown"/>            
     </topicref>
@@ -31,5 +32,5 @@
                 <navtitle>ID.AM-3</navtitle>
             </topicmeta>
         </topicref>                    
-    </topicref>
+    </topicref>-->
 </map>
