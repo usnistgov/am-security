@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.0 Topic//EN" "topic.dtd">
-<topic id="topic_fy4_bwt_pbc" audience="general">
-    <title>Asset Management (ID.AM)</title>
-        <topic id="s-id.am">
-            <title>Statement</title>
-            <body>
-                <p>Assets (e.g., data, hardware, software, systems, facilities, services, people) that enable the organization to achieve business purposes are identified and managed consistent with their relative importance to organizational objectives and the organization's risk strategy</p>
-            </body>
-        </topic>
+<topic id="s-id.am">
+    <title>Statement</title>
+    <body>
+        <p>Assets (e.g., data, hardware, software, systems, facilities, services, people) that enable the organization to achieve business purposes are identified and managed consistent with their relative importance to organizational objectives and the organization's risk strategy</p>
+    </body>
 </topic>

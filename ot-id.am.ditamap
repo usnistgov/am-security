@@ -1,36 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.0 Map//EN" "map.dtd">
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Cybersecurity Framework 2.0 Profile</title>
     <topicgroup>
-        <topichead>
-            <topicmeta>
-                <navtitle>Asset Management (ID.AM)</navtitle>
-            </topicmeta>
-            <topicref href="topics/nist.gov/id.am.dita#s-id.am"/>
-            <topicref href="topics/nist.gov/SP800-82r3/id.am.dita#gen-id.am"/>            
-            <topicref href="topics/nist.gov/SP800-82r3/id.am.dita#ot-id.am"/>            
+        <topichead navtitle="Asset Management (ID.AM)">
+            <topicref href="topics/nist.gov/id.am.dita" audience="general"/>
+            <topicref href="topics/nist.gov/SP800-82r3/id.am/general.dita" audience="general"/>            
+            <topicref href="topics/nist.gov/SP800-82r3/id.am/ot.dita" audience="ot"/>            
         </topichead>
-        <topichead>
-            <topicmeta>
-                <navtitle>Asset Management Subcategories</navtitle>
-            </topicmeta>
-            <topicgroup>
-                <topicref href="topics/nist.gov/id.am-03.dita#s-id.am-03"/>
-                <topicref href="topics/nist.gov/SP800-82r3/id.am-03.dita#gen-id.am-03"/>
-                <topicref href="topics/nist.gov/SP800-82r3/id.am-03.dita#ot-id.am-03"/>
-            </topicgroup>
+        <topichead navtitle="Asset Management Subcategories">
+            <topichead navtitle="ID.AM-03">
+                <topicref href="topics/nist.gov/id.am-03/statement.dita" audience="general"/>
+                <topicref href="topics/nist.gov/SP800-82r3/id.am-03/general.dita" audience="general"/>
+                <topicref href="topics/nist.gov/SP800-82r3/id.am-03/ot.dita" audience="ot"/>
+                <topicref href="topics/nist.gov/id.am-03/imp-examples.dita" audience="general"/>
+            </topichead>
         </topichead>
     </topicgroup>
-    <!--<topicref>
-        <topicref href="topics/nist.gov/id.am.md" format="markdown"/>
-        <topicref href="topics/nist.gov/SP800-82r3/id.am.md" format="markdown"/>            
-    </topicref>
-    <topicref>
-        <topicref href="topics/nist.gov/SP800-82r3/id.am-03.md" format="markdown">
-            <topicmeta>
-                <navtitle>ID.AM-3</navtitle>
-            </topicmeta>
-        </topicref>                    
-    </topicref>-->
 </map>
