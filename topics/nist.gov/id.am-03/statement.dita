@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="s-id.am-03">
-    <title>Statement</title>
+    <title><keyword keyref="stmtHeadingText"/></title>
     <body>
         <p>Representations of the organization's authorized network communication and internal and external network data flows are maintained</p>
     </body>

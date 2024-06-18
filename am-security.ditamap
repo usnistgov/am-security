@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.0 Map//EN" "map.dtd">
 <map>
-    <title>Project</title>
-    <topicref href="topics/welcome.dita"/>
     <topicref href="reusables/reusable_content.ditamap" format="ditamap" processing-role="resource-only"/>
+    <mapref href="ot-id.am.ditamap"/>
 </map>

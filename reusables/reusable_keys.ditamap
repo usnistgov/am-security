@@ -9,4 +9,11 @@
             </keywords>
         </topicmeta>
     </keydef>
+    <keydef keys="stmtHeadingText">
+        <topicmeta>
+            <keywords>
+                <keyword>Statement</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
 </map>
