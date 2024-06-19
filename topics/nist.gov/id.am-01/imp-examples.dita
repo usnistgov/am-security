@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="imp_examples">
-    <title>Implementation Examples</title>
+    <title><keyword keyref="implHeadingText"/></title>
     <body>
         <ol>
             <li>Maintain inventories for all types of hardware, including IT, IoT, OT, and mobile devices</li>

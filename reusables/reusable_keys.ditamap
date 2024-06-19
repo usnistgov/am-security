@@ -16,4 +16,32 @@
             </keywords>
         </topicmeta>
     </keydef>
+    <keydef keys="guidanceHeadingText">
+        <topicmeta>
+            <keywords>
+                <keyword>Supplemental Guidance</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="implHeadingText">
+        <topicmeta>
+            <keywords>
+                <keyword>Implementation Examples</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="additiveHeadingText">
+        <topicmeta>
+            <keywords>
+                <keyword>Additive Manufacturing Guidance</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="otHeadingText">
+        <topicmeta>
+            <keywords>
+                <keyword>OT-Specific Recommendations and Guidance</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
 </map>
