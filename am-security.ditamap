@@ -2,5 +2,5 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.0 Map//EN" "map.dtd">
 <map>
     <topicref href="reusables/reusable_content.ditamap" format="ditamap" processing-role="resource-only"/>
-    <mapref href="ot-id.am.ditamap"/>
+    <mapref href="topics.ditamap"/>
 </map>
