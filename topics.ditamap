@@ -29,6 +29,24 @@
                     format="markdown"/>
                 <topicref href="topics/nist.gov/id.am-03/imp-examples.dita" audience="general"/>
             </topichead>
+            <topichead navtitle="ID.AM-04">
+                <topicref href="topics/nist.gov/id.am-04/statement.dita" audience="general"/>
+                <topicref href="topics/nist.gov/ASTM/id.am-04.md" audience="additive"
+                    format="markdown"/>
+                <topicref href="topics/nist.gov/id.am-04/imp-examples.dita" audience="general"/>
+            </topichead>
+            <topichead navtitle="ID.AM-05">
+                <topicref href="topics/nist.gov/id.am-05/statement.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-05/imp-examples.dita" audience="general"/>
+            </topichead>
+            <topichead navtitle="ID.AM-07">
+                <topicref href="topics/nist.gov/id.am-07/statement.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-07/imp-examples.dita" audience="general"/>
+            </topichead>
+            <topichead navtitle="ID.AM-08">
+                <topicref href="topics/nist.gov/id.am-08/statement.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-08/imp-examples.dita" audience="general"/>
+            </topichead>
         </topichead>
     </topicgroup>
 </map>

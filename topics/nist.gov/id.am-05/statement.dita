@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="s-id.am-03">
+    <title><keyword keyref="stmtHeadingText"/></title>
+    <body>
+        <p>Assets are prioritized based on classification, criticality, resources, and impact on the
+            mission</p>
+    </body>
+</topic>
