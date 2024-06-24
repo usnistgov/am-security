@@ -4,48 +4,48 @@
     <title>Additive Manufacturing Asset Management Cybersecurity Framework 2.0 Profile</title>
     <topicgroup>
         <topichead navtitle="Asset Management (ID.AM)">
-            <topicref href="topics/nist.gov/id.am.dita" audience="general"/>
-            <topicref href="topics/nist.gov/SP800-82r3/id.am/general.dita" audience="general"/>
-            <topicref href="topics/nist.gov/SP800-82r3/id.am/ot.dita" audience="ot"/>
+            <topicref href="topics/nist.gov/id.am.md" audience="general" format="markdown"/>
+            <topicref href="topics/nist.gov/SP800-82r3/id.am/general.md" audience="general" format="markdown"/>
+            <topicref href="topics/nist.gov/SP800-82r3/id.am/ot.md" audience="ot" format="markdown"/>
         </topichead>
         <topichead navtitle="Asset Management Subcategories">
             <topichead navtitle="ID.AM-01">
-                <topicref href="topics/nist.gov/id.am-01/statement.dita" audience="general"/>
-                <topicref href="topics/nist.gov/ASTM/id.am-01.md" audience="additive"
+                <topicref href="topics/nist.gov/id.am-01/statement.md" audience="general" format="markdown"/>
+                <topicref href="topics/nist.gov/ASTM/id.am-01/additive.md" audience="additive"
                     format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-01/imp-examples.dita" audience="general"/>
+                <topicref href="topics/nist.gov/ASTM/id.am-01/imp-examples.md" audience="additive" format="markdown"/>
             </topichead>
             <topichead navtitle="ID.AM-02">
-                <topicref href="topics/nist.gov/id.am-02/statement.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-02/statement.md" audience="general" format="markdown"/>
                 <topicref href="topics/nist.gov/ASTM/id.am-02.md" audience="additive"
                     format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-02/imp-examples.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-02/imp-examples.md" audience="general" format="markdown"/>
             </topichead>
             <topichead navtitle="ID.AM-03">
-                <topicref href="topics/nist.gov/id.am-03/statement.dita" audience="general"/>
-                <topicref href="topics/nist.gov/SP800-82r3/id.am-03/general.dita" audience="general"/>
-                <topicref href="topics/nist.gov/SP800-82r3/id.am-03/ot.dita" audience="ot"/>
+                <topicref href="topics/nist.gov/id.am-03/statement.md" audience="general" format="markdown"/>
+                <topicref href="topics/nist.gov/SP800-82r3/id.am-03/general.md" audience="general" format="markdown"/>
+                <topicref href="topics/nist.gov/SP800-82r3/id.am-03/ot.md" audience="ot" format="markdown"/>
                 <topicref href="topics/nist.gov/ASTM/id.am-03.md" audience="additive"
                     format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-03/imp-examples.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-03/imp-examples.md" audience="general" format="markdown"/>
             </topichead>
             <topichead navtitle="ID.AM-04">
-                <topicref href="topics/nist.gov/id.am-04/statement.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-04/statement.md" audience="general" format="markdown"/>
                 <topicref href="topics/nist.gov/ASTM/id.am-04.md" audience="additive"
                     format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-04/imp-examples.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-04/imp-examples.md" audience="general" format="markdown"/>
             </topichead>
             <topichead navtitle="ID.AM-05">
-                <topicref href="topics/nist.gov/id.am-05/statement.dita" audience="general"/>
-                <topicref href="topics/nist.gov/id.am-05/imp-examples.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-05/statement.md" audience="general" format="markdown"/>
+                <topicref href="topics/nist.gov/id.am-05/imp-examples.md" audience="general" format="markdown"/>
             </topichead>
             <topichead navtitle="ID.AM-07">
-                <topicref href="topics/nist.gov/id.am-07/statement.dita" audience="general"/>
-                <topicref href="topics/nist.gov/id.am-07/imp-examples.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-07/statement.md" audience="general" format="markdown"/>
+                <topicref href="topics/nist.gov/id.am-07/imp-examples.md" audience="general" format="markdown"/>
             </topichead>
             <topichead navtitle="ID.AM-08">
-                <topicref href="topics/nist.gov/id.am-08/statement.dita" audience="general"/>
-                <topicref href="topics/nist.gov/id.am-08/imp-examples.dita" audience="general"/>
+                <topicref href="topics/nist.gov/id.am-08/statement.md" audience="general" format="markdown"/>
+                <topicref href="topics/nist.gov/id.am-08/imp-examples.md" audience="general" format="markdown"/>
             </topichead>
         </topichead>
     </topicgroup>
