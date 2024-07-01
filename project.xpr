@@ -179,20 +179,6 @@
                                                 <null/>
                                             </field>
                                         </profileConditionValue>
-                                        <profileConditionValue>
-                                            <field name="value">
-                                                <String>statement</String>
-                                            </field>
-                                            <field name="description">
-                                                <String>CSF statements only</String>
-                                            </field>
-                                            <field name="level">
-                                                <Integer>0</Integer>
-                                            </field>
-                                            <field name="renderName">
-                                                <null/>
-                                            </field>
-                                        </profileConditionValue>
                                     </profileConditionValue-array>
                                 </field>
                                 <field name="documentTypePattern">
@@ -1366,33 +1352,6 @@
                                 </field>
                                 <field name="conditionSetName">
                                     <String>OT+Additive w/o General</String>
-                                </field>
-                                <field name="ditavalFile">
-                                    <String></String>
-                                </field>
-                                <field name="useDITAVAL">
-                                    <Boolean>false</Boolean>
-                                </field>
-                                <field name="shortcut">
-                                    <null/>
-                                </field>
-                            </profileConditionsSetInfo>
-                            <profileConditionsSetInfo>
-                                <field name="conditions">
-                                    <serializableOrderedMap>
-                                        <entry>
-                                            <String>audience</String>
-                                            <String-array>
-                                                <String>statement</String>
-                                            </String-array>
-                                        </entry>
-                                    </serializableOrderedMap>
-                                </field>
-                                <field name="documentTypePattern">
-                                    <String>*DITA*</String>
-                                </field>
-                                <field name="conditionSetName">
-                                    <String>CSF statements</String>
                                 </field>
                                 <field name="ditavalFile">
                                     <String></String>
