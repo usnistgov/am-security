@@ -279,10 +279,10 @@
                                     <profileConditionValue-array>
                                         <profileConditionValue>
                                             <field name="value">
-                                                <String>product1</String>
+                                                <String>800-82</String>
                                             </field>
                                             <field name="description">
-                                                <String>Sample value. You can change it from the "Profiling/Conditional Text" preferences page.</String>
+                                                <String>SP 800-82r3 Section 6 guidance pertaining to CSF 2.0 ID.AM</String>
                                             </field>
                                             <field name="level">
                                                 <Integer>0</Integer>
@@ -293,10 +293,24 @@
                                         </profileConditionValue>
                                         <profileConditionValue>
                                             <field name="value">
-                                                <String>product2</String>
+                                                <String>csf20</String>
                                             </field>
                                             <field name="description">
-                                                <String>Sample value. You can change it from the "Profiling/Conditional Text" preferences page.</String>
+                                                <String>Cybersecurity Framework 2.0 ID.AM</String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <null/>
+                                            </field>
+                                        </profileConditionValue>
+                                        <profileConditionValue>
+                                            <field name="value">
+                                                <String>wk78322</String>
+                                            </field>
+                                            <field name="description">
+                                                <String>ID.AM guidance relevant to additive manufacturing, adapted from CSF 2.0 and 800-82, or originating from ASTM WK78322</String>
                                             </field>
                                             <field name="level">
                                                 <Integer>0</Integer>
@@ -1352,6 +1366,66 @@
                                 </field>
                                 <field name="conditionSetName">
                                     <String>OT+Additive w/o General</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>general</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>csf20</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>CSF 2.0 ID.AM</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>800-82 ID.AM</String>
                                 </field>
                                 <field name="ditavalFile">
                                     <String></String>
