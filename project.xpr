@@ -1381,12 +1381,6 @@
                                 <field name="conditions">
                                     <serializableOrderedMap>
                                         <entry>
-                                            <String>audience</String>
-                                            <String-array>
-                                                <String>general</String>
-                                            </String-array>
-                                        </entry>
-                                        <entry>
                                             <String>product</String>
                                             <String-array>
                                                 <String>csf20</String>
@@ -1426,6 +1420,33 @@
                                 </field>
                                 <field name="conditionSetName">
                                     <String>800-82 ID.AM</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>WK78322 ID.AM</String>
                                 </field>
                                 <field name="ditavalFile">
                                     <String></String>
