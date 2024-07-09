@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <topichead navtitle="ID.AM-03">
+        <topicref href="topics/nist.gov/id.am-03/statement.md" audience="general" product="csf20" format="markdown"/>
+        <topicref href="topics/nist.gov/SP800-82r3/id.am-03/general.md" audience="general" product="800-82" format="markdown"/>
+        <topicref href="topics/nist.gov/SP800-82r3/id.am-03/ot.md" audience="ot" product="800-82" format="markdown"/>
+        <topicref href="topics/nist.gov/ASTM/id.am-03.md" audience="additive" product="wk78322"
+            format="markdown"/>
+        <topicref href="topics/nist.gov/id.am-03/imp-examples.md" audience="general" product="csf20" format="markdown"/>
+    </topichead>
+</map>

@@ -9,45 +9,13 @@
             <topicref href="topics/nist.gov/SP800-82r3/id.am/ot.md" audience="ot" product="800-82" format="markdown"/>
         </topichead>
         <topichead navtitle="Asset Management Subcategories">
-            <topichead navtitle="ID.AM-01">
-                <topicref href="topics/nist.gov/id.am-01/statement.md" audience="general" product="csf20" format="markdown"/>
-                <topicref href="topics/nist.gov/ASTM/id.am-01/additive.md" audience="additive" product="wk78322"
-                    format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-01/imp-examples.md" audience="general" product="csf20" format="markdown"/>
-                <topicref href="topics/nist.gov/ASTM/id.am-01/imp-examples.md" audience="additive" product="wk78322" format="markdown"/>
-            </topichead>
-            <topichead navtitle="ID.AM-02">
-                <topicref href="topics/nist.gov/id.am-02/statement.md" audience="general" product="csf20" format="markdown"/>
-                <topicref href="topics/nist.gov/ASTM/id.am-02.md" audience="additive" product="wk78322"
-                    format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-02/imp-examples.md" audience="general" product="csf20" format="markdown"/>
-            </topichead>
-            <topichead navtitle="ID.AM-03">
-                <topicref href="topics/nist.gov/id.am-03/statement.md" audience="general" product="csf20" format="markdown"/>
-                <topicref href="topics/nist.gov/SP800-82r3/id.am-03/general.md" audience="general" product="800-82" format="markdown"/>
-                <topicref href="topics/nist.gov/SP800-82r3/id.am-03/ot.md" audience="ot" product="800-82" format="markdown"/>
-                <topicref href="topics/nist.gov/ASTM/id.am-03.md" audience="additive" product="wk78322"
-                    format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-03/imp-examples.md" audience="general" product="csf20" format="markdown"/>
-            </topichead>
-            <topichead navtitle="ID.AM-04">
-                <topicref href="topics/nist.gov/id.am-04/statement.md" audience="general" product="csf20" format="markdown"/>
-                <topicref href="topics/nist.gov/ASTM/id.am-04.md" audience="additive" product="wk78322"
-                    format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-04/imp-examples.md" audience="general" product="csf20" format="markdown"/>
-            </topichead>
-            <topichead navtitle="ID.AM-05">
-                <topicref href="topics/nist.gov/id.am-05/statement.md" audience="general" product="csf20" format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-05/imp-examples.md" audience="general" product="csf20" format="markdown"/>
-            </topichead>
-            <topichead navtitle="ID.AM-07">
-                <topicref href="topics/nist.gov/id.am-07/statement.md" audience="general" product="csf20" format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-07/imp-examples.md" audience="general" product="csf20" format="markdown"/>
-            </topichead>
-            <topichead navtitle="ID.AM-08">
-                <topicref href="topics/nist.gov/id.am-08/statement.md" audience="general" product="csf20" format="markdown"/>
-                <topicref href="topics/nist.gov/id.am-08/imp-examples.md" audience="general" product="csf20" format="markdown"/>
-            </topichead>
+            <mapref href="id.am-01.ditamap" otherprops="id.am-01"/>
+            <mapref href="id.am-02.ditamap" otherprops="id.am-02"/>
+            <mapref href="id.am-03.ditamap" otherprops="id.am-03"/>
+            <mapref href="id.am-04.ditamap" otherprops="id.am-04"/>
+            <mapref href="id.am-05.ditamap" otherprops="id.am-05"/>
+            <mapref href="id.am-07.ditamap" otherprops="id.am-07"/>
+            <mapref href="id.am-08.ditamap" otherprops="id.am-08"/>
         </topichead>
     </topicgroup>
 </map>

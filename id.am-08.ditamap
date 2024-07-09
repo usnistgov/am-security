@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <topichead navtitle="ID.AM-08">
+        <topicref href="topics/nist.gov/id.am-08/statement.md" audience="general" product="csf20" format="markdown"/>
+        <topicref href="topics/nist.gov/id.am-08/imp-examples.md" audience="general" product="csf20" format="markdown"/>
+    </topichead>
+</map>

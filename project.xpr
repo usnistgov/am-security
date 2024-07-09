@@ -391,30 +391,100 @@
                                     <profileConditionValue-array>
                                         <profileConditionValue>
                                             <field name="value">
-                                                <String>prop1</String>
+                                                <String>id.am-01</String>
                                             </field>
                                             <field name="description">
-                                                <String>Sample value. You can change it from the "Profiling/Conditional Text" preferences page.</String>
+                                                <String></String>
                                             </field>
                                             <field name="level">
                                                 <Integer>0</Integer>
                                             </field>
                                             <field name="renderName">
-                                                <null/>
+                                                <String>ID.AM-01</String>
                                             </field>
                                         </profileConditionValue>
                                         <profileConditionValue>
                                             <field name="value">
-                                                <String>prop2</String>
+                                                <String>id.am-02</String>
                                             </field>
                                             <field name="description">
-                                                <String>Sample value. You can change it from the "Profiling/Conditional Text" preferences page.</String>
+                                                <String></String>
                                             </field>
                                             <field name="level">
                                                 <Integer>0</Integer>
                                             </field>
                                             <field name="renderName">
-                                                <null/>
+                                                <String>ID.AM-02</String>
+                                            </field>
+                                        </profileConditionValue>
+                                        <profileConditionValue>
+                                            <field name="value">
+                                                <String>id.am-03</String>
+                                            </field>
+                                            <field name="description">
+                                                <String></String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <String>ID.AM-03</String>
+                                            </field>
+                                        </profileConditionValue>
+                                        <profileConditionValue>
+                                            <field name="value">
+                                                <String>id.am-04</String>
+                                            </field>
+                                            <field name="description">
+                                                <String></String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <String>ID.AM-04</String>
+                                            </field>
+                                        </profileConditionValue>
+                                        <profileConditionValue>
+                                            <field name="value">
+                                                <String>id.am-05</String>
+                                            </field>
+                                            <field name="description">
+                                                <String></String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <String>ID.AM-05</String>
+                                            </field>
+                                        </profileConditionValue>
+                                        <profileConditionValue>
+                                            <field name="value">
+                                                <String>id.am-07</String>
+                                            </field>
+                                            <field name="description">
+                                                <String></String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <String>ID.AM-07</String>
+                                            </field>
+                                        </profileConditionValue>
+                                        <profileConditionValue>
+                                            <field name="value">
+                                                <String>id.am-08</String>
+                                            </field>
+                                            <field name="description">
+                                                <String></String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <String>ID.AM-08</String>
                                             </field>
                                         </profileConditionValue>
                                     </profileConditionValue-array>
@@ -426,7 +496,7 @@
                                     <String> </String>
                                 </field>
                                 <field name="attributeRenderName">
-                                    <String>Other</String>
+                                    <String>ID.AM Subcategory</String>
                                 </field>
                             </profileConditionInfo>
                             <profileConditionInfo>
@@ -1381,6 +1451,24 @@
                                 <field name="conditions">
                                     <serializableOrderedMap>
                                         <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>general</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
                                             <String>product</String>
                                             <String-array>
                                                 <String>csf20</String>
@@ -1407,6 +1495,25 @@
                             <profileConditionsSetInfo>
                                 <field name="conditions">
                                     <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>general</String>
+                                                <String>ot</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
                                         <entry>
                                             <String>product</String>
                                             <String-array>
@@ -1435,6 +1542,26 @@
                                 <field name="conditions">
                                     <serializableOrderedMap>
                                         <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>additive</String>
+                                                <String>general</String>
+                                                <String>ot</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
                                             <String>product</String>
                                             <String-array>
                                                 <String>wk78322</String>
@@ -1458,6 +1585,307 @@
                                     <null/>
                                 </field>
                             </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>additive</String>
+                                                <String>general</String>
+                                                <String>ot</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>ID.AM-01</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>additive</String>
+                                                <String>general</String>
+                                                <String>ot</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-02</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>ID.AM-02</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>additive</String>
+                                                <String>general</String>
+                                                <String>ot</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-03</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>ID.AM-03</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>additive</String>
+                                                <String>general</String>
+                                                <String>ot</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-04</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>ID.AM-04</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>additive</String>
+                                                <String>general</String>
+                                                <String>ot</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-05</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>ID.AM-05</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>additive</String>
+                                                <String>general</String>
+                                                <String>ot</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-07</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>ID.AM-07</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>additive</String>
+                                                <String>general</String>
+                                                <String>ot</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>ID.AM-08</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
                         </profileConditionsSetInfo-array>
                     </entry>
                     <entry>
@@ -1465,11 +1893,31 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>id.am-01.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>PDF - based on HTML5 &amp; CSS</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>am-security.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>MS Office Word - CSF Profile</String>
+                                        <String>PDF - based on HTML5 &amp; CSS</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1926,7 +2374,38 @@
                                     <String></String>
                                 </field>
                                 <field name="ditaParams">
-                                    <list/>
+                                    <list>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>args.debug</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>yes</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>no</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>yes</String>
+                                                    <String>no</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                    </list>
                                 </field>
                                 <field name="jvmArgs">
                                     <String></String>
