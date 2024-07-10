@@ -24,22 +24,6 @@
                         <documentTypeEntry-array>
                             <documentTypeEntry>
                                 <field name="documentTypeID">
-                                    <String>6/dita/ditamap-lw.exf/Lightweight DITA - Map</String>
-                                </field>
-                                <field name="enable">
-                                    <Boolean>false</Boolean>
-                                </field>
-                            </documentTypeEntry>
-                            <documentTypeEntry>
-                                <field name="documentTypeID">
-                                    <String>6/dita/dita-lw.exf/Lightweight DITA - Topic</String>
-                                </field>
-                                <field name="enable">
-                                    <Boolean>false</Boolean>
-                                </field>
-                            </documentTypeEntry>
-                            <documentTypeEntry>
-                                <field name="documentTypeID">
                                     <String>6/docbook/docbook4.framework/DocBook 4</String>
                                 </field>
                                 <field name="enable">
@@ -1262,6 +1246,26 @@
                                                 <String>general</String>
                                             </String-array>
                                         </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
                                     </serializableOrderedMap>
                                 </field>
                                 <field name="documentTypePattern">
@@ -1289,6 +1293,26 @@
                                                 <String>ot</String>
                                             </String-array>
                                         </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
                                     </serializableOrderedMap>
                                 </field>
                                 <field name="documentTypePattern">
@@ -1314,6 +1338,24 @@
                                             <String>audience</String>
                                             <String-array>
                                                 <String>additive</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>wk78322</String>
                                             </String-array>
                                         </entry>
                                     </serializableOrderedMap>
@@ -1344,6 +1386,26 @@
                                                 <String>ot</String>
                                             </String-array>
                                         </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
                                     </serializableOrderedMap>
                                 </field>
                                 <field name="documentTypePattern">
@@ -1370,6 +1432,26 @@
                                             <String-array>
                                                 <String>additive</String>
                                                 <String>general</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
                                             </String-array>
                                         </entry>
                                     </serializableOrderedMap>
@@ -1401,6 +1483,18 @@
                                                 <String>ot</String>
                                             </String-array>
                                         </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
                                     </serializableOrderedMap>
                                 </field>
                                 <field name="documentTypePattern">
@@ -1427,6 +1521,25 @@
                                             <String-array>
                                                 <String>additive</String>
                                                 <String>ot</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>wk78322</String>
                                             </String-array>
                                         </entry>
                                     </serializableOrderedMap>
@@ -1893,7 +2006,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>id.am-01.ditamap</String>
+                                    <String>am-security.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1913,7 +2026,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>am-security.ditamap</String>
+                                    <String>id.am-01.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
