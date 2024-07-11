@@ -2018,7 +2018,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>DITA Map Metrics Report - CSF Profile</String>
+                                        <String>DITA Map HTML5 - CSF Profile</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
