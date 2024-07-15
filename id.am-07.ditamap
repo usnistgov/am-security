@@ -3,6 +3,8 @@
 <map>
     <topichead navtitle="ID.AM-07">
         <topicref href="topics/nist.gov/id.am-07/statement.md" audience="general" product="csf20" format="markdown"/>
+        <topicref href="topics/nist.gov/ASTM/id.am-07.md" audience="additive" product="wk78322"
+            format="markdown"/>
         <topicref href="topics/nist.gov/id.am-07/imp-examples.md" audience="general" product="csf20" format="markdown"/>
     </topichead>
 </map>
