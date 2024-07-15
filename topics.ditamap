@@ -4,9 +4,9 @@
     <title>Additive Manufacturing Asset Management Cybersecurity Framework 2.0 Profile</title>
     <topicgroup>
         <topichead navtitle="Asset Management (ID.AM)">
-            <topicref href="topics/nist.gov/id.am.md" audience="general" product="csf20" format="markdown"/>
-            <topicref href="topics/nist.gov/SP800-82r3/id.am/general.md" audience="general" product="800-82" format="markdown"/>
-            <topicref href="topics/nist.gov/SP800-82r3/id.am/ot.md" audience="ot" product="800-82" format="markdown"/>
+            <topicref href="topics/nist.gov/id.am.dita" audience="general" product="csf20"/>
+            <topicref href="topics/nist.gov/SP800-82r3/id.am/general.dita" audience="general" product="800-82"/>
+            <topicref href="topics/nist.gov/SP800-82r3/id.am/ot.dita" audience="ot" product="800-82"/>
         </topichead>
         <topichead navtitle="Asset Management Subcategories">
             <mapref href="id.am-01.ditamap" otherprops="id.am-01"/>

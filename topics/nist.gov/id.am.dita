@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="stmtheadingtext">
+    <title><xref keyref="stmtHeadingText"/></title>
+    <body>
+        <p>Assets (e.g., data, hardware, software, systems, facilities, services, people) that
+            enable the organization to achieve business purposes are identified and managed
+            consistent with their relative importance to organizational objectives and the
+            organization's risk strategy</p>
+    </body>
+</topic>

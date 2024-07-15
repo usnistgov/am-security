@@ -44,4 +44,11 @@
             </keywords>
         </topicmeta>
     </keydef>
+    <keydef keys="noGuidanceHeadingText">
+        <topicmeta>
+            <keywords>
+                <keyword>No Guidance Provided from SP 800-82 rev. 3</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
 </map>

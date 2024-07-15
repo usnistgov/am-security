@@ -2,7 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <topichead navtitle="ID.AM-05">
-        <topicref href="topics/nist.gov/id.am-05/statement.md" audience="general" product="csf20" format="markdown"/>
+        <topicref href="topics/nist.gov/id.am-05/statement.dita" audience="general" product="csf20"/>
+        <topicref href="topics/nist.gov/SP800-82r3/no-guidance.dita" product="800-82"/>
         <topicref href="topics/nist.gov/id.am-05/imp-examples.md" audience="general" product="csf20" format="markdown"/>
     </topichead>
 </map>

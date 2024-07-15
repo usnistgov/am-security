@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="otheadingtext">
+    <title><keyword keyref="otHeadingText"/></title>
+    <body>
+        <p>To reduce false positive and nuisance alarms of anomalies and events, organizations
+            should establish their OT alerting thresholds based on baselines of normal network
+            traffic and data flows in addition to normal human and OT process behavior.</p>
+    </body>
+</topic>
