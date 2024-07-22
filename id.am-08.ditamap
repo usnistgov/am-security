@@ -5,6 +5,7 @@
         <topicref href="topics/nist.gov/id.am-08/statement.dita" audience="general" product="csf20"/>
         <topicref href="topics/nist.gov/SP800-82r3/pr.ds/ot.dita" audience="ot" product="800-82"/>
         <topicref href="topics/nist.gov/SP800-82r3/pr.ma/ot.dita" audience="ot" product="800-82"/>
-        <topicref href="topics/nist.gov/id.am-08/imp-examples.md" audience="general" product="csf20" format="markdown"/>
+        <topicref href="topics/nist.gov/ASTM/id.am-08/guidance.md" audience="additive" product="wk78322" format="markdown"/>
+        <topicref href="topics/nist.gov/ASTM/id.am-08/imp-examples.md" audience="additive" product="wk78322" format="markdown"/>
     </topichead>
 </map>
