@@ -1,6 +1,6 @@
 # [additiveHeadingText]
 
-Additive manufacturing data inventories should be aligned with the 
+Additive manufacturing data inventories should be aligned where practical with the 
 common dictionary specified in ASTM F3490. Additively manufactured products can have 
 arbitrarily complex designs that may be customized for specific individuals. For example, 
 CAD data for an additively manufactured prosthesis 
