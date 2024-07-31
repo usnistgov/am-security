@@ -277,6 +277,20 @@
                                         </profileConditionValue>
                                         <profileConditionValue>
                                             <field name="value">
+                                                <String>8183</String>
+                                            </field>
+                                            <field name="description">
+                                                <String>NISTIR 8183r1</String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <null/>
+                                            </field>
+                                        </profileConditionValue>
+                                        <profileConditionValue>
+                                            <field name="value">
                                                 <String>csf20</String>
                                             </field>
                                             <field name="description">

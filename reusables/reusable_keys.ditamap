@@ -51,4 +51,46 @@
             </keywords>
         </topicmeta>
     </keydef>
+    <keydef keys="L">
+        <topicmeta>
+            <keywords>
+                <keyword>Low Impact</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="M">
+        <topicmeta>
+            <keywords>
+                <keyword>Moderate Impact</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="H">
+        <topicmeta>
+            <keywords>
+                <keyword>High Impact</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="LM">
+        <topicmeta>
+            <keywords>
+                <keyword>Low and Moderate Impact</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="MH">
+        <topicmeta>
+            <keywords>
+                <keyword>Moderate and High Impact</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="LMH">
+        <topicmeta>
+            <keywords>
+                <keyword>Low, Moderate and High Impact</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
 </map>
