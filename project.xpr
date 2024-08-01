@@ -151,6 +151,20 @@
                                         </profileConditionValue>
                                         <profileConditionValue>
                                             <field name="value">
+                                                <String>mfg</String>
+                                            </field>
+                                            <field name="description">
+                                                <String>Specific to manufacturing</String>
+                                            </field>
+                                            <field name="level">
+                                                <Integer>0</Integer>
+                                            </field>
+                                            <field name="renderName">
+                                                <null/>
+                                            </field>
+                                        </profileConditionValue>
+                                        <profileConditionValue>
+                                            <field name="value">
                                                 <String>ot</String>
                                             </field>
                                             <field name="description">
@@ -1276,6 +1290,7 @@
                                             <String>product</String>
                                             <String-array>
                                                 <String>800-82</String>
+                                                <String>8183</String>
                                                 <String>csf20</String>
                                                 <String>wk78322</String>
                                             </String-array>
@@ -1323,6 +1338,7 @@
                                             <String>product</String>
                                             <String-array>
                                                 <String>800-82</String>
+                                                <String>8183</String>
                                                 <String>csf20</String>
                                                 <String>wk78322</String>
                                             </String-array>
@@ -1334,6 +1350,54 @@
                                 </field>
                                 <field name="conditionSetName">
                                     <String>OT only</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>mfg</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>8183</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>Mfg only</String>
                                 </field>
                                 <field name="ditavalFile">
                                     <String></String>
@@ -1369,6 +1433,9 @@
                                         <entry>
                                             <String>product</String>
                                             <String-array>
+                                                <String>800-82</String>
+                                                <String>8183</String>
+                                                <String>csf20</String>
                                                 <String>wk78322</String>
                                             </String-array>
                                         </entry>
@@ -1416,6 +1483,7 @@
                                             <String>product</String>
                                             <String-array>
                                                 <String>800-82</String>
+                                                <String>8183</String>
                                                 <String>csf20</String>
                                                 <String>wk78322</String>
                                             </String-array>
@@ -1427,6 +1495,55 @@
                                 </field>
                                 <field name="conditionSetName">
                                     <String>General+OT</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>general</String>
+                                                <String>mfg</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>8183</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>General+Mfg</String>
                                 </field>
                                 <field name="ditavalFile">
                                     <String></String>
@@ -1464,6 +1581,7 @@
                                             <String>product</String>
                                             <String-array>
                                                 <String>800-82</String>
+                                                <String>8183</String>
                                                 <String>csf20</String>
                                                 <String>wk78322</String>
                                             </String-array>
@@ -1542,6 +1660,56 @@
                                             <String>audience</String>
                                             <String-array>
                                                 <String>additive</String>
+                                                <String>general</String>
+                                                <String>mfg</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-01</String>
+                                                <String>id.am-02</String>
+                                                <String>id.am-03</String>
+                                                <String>id.am-04</String>
+                                                <String>id.am-05</String>
+                                                <String>id.am-07</String>
+                                                <String>id.am-08</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>product</String>
+                                            <String-array>
+                                                <String>800-82</String>
+                                                <String>8183</String>
+                                                <String>csf20</String>
+                                                <String>wk78322</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>General+Mfg+Additive</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>additive</String>
                                                 <String>ot</String>
                                             </String-array>
                                         </entry>
@@ -1561,6 +1729,8 @@
                                             <String>product</String>
                                             <String-array>
                                                 <String>800-82</String>
+                                                <String>8183</String>
+                                                <String>csf20</String>
                                                 <String>wk78322</String>
                                             </String-array>
                                         </entry>
@@ -1588,7 +1758,10 @@
                                         <entry>
                                             <String>audience</String>
                                             <String-array>
+                                                <String>additive</String>
                                                 <String>general</String>
+                                                <String>mfg</String>
+                                                <String>ot</String>
                                             </String-array>
                                         </entry>
                                         <entry>
@@ -1728,6 +1901,7 @@
                                             <String-array>
                                                 <String>additive</String>
                                                 <String>general</String>
+                                                <String>mfg</String>
                                                 <String>ot</String>
                                             </String-array>
                                         </entry>
@@ -1741,6 +1915,7 @@
                                             <String>product</String>
                                             <String-array>
                                                 <String>800-82</String>
+                                                <String>8183</String>
                                                 <String>csf20</String>
                                                 <String>wk78322</String>
                                             </String-array>
