@@ -4,6 +4,9 @@
     <topichead navtitle="ID.AM-05">
         <topicref href="topics/nist.gov/id.am-05/statement.dita" audience="general" product="csf20"/>
         <topicref href="topics/nist.gov/SP800-82r3/no-guidance.dita" product="800-82"/>
+        <topichead navtitle="Manufacturing Profile Guidance" product="8183" audience="mfg">
+            <topicref href="topics/nist.gov/NISTIR8183r1/id.am-05/LMH.dita"/>
+        </topichead>
         <topicref href="topics/nist.gov/id.am-05/imp-examples.md" audience="general" product="csf20" format="markdown"/>
     </topichead>
 </map>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="LMH">
+    <title><keyword keyref="LMH"/></title>
+    <body>
+        <p>Identify and prioritize manufacturing system components and functions based on their classification, criticality, and business value.</p>
+        <p>Identify the types of information in possession, custody, or control for which security safeguards are needed (e.g. sensitive or protected information).</p>
+    </body>
+</topic>

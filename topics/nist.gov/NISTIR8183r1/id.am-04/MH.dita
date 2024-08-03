@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="MH">
+    <title><keyword keyref="MH"/></title>
+    <body>
+        <p>Require external providers to identify the functions, ports, protocols, and other services required for use with the manufacturing system.</p>
+    </body>
+</topic>

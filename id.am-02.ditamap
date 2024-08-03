@@ -3,7 +3,11 @@
 <map>
     <topichead navtitle="ID.AM-02">
         <topicref href="topics/nist.gov/id.am-02/statement.dita" audience="general" product="csf20"/>
-        <topicref href="topics/nist.gov/SP800-82r3/no-guidance.dita" product="800-82"/>
+        <topichead navtitle="Manufacturing Profile Guidance" product="8183" audience="mfg">
+            <topicref href="topics/nist.gov/NISTIR8183r1/id.am-02/L.dita"/>
+            <topicref href="topics/nist.gov/NISTIR8183r1/id.am-02/M.dita"/>
+            <topicref href="topics/nist.gov/NISTIR8183r1/id.am-02/H.dita"/>           
+        </topichead>
         <topicref href="topics/nist.gov/ASTM/id.am-02.md" audience="additive" product="wk78322"
             format="markdown"/>
         <topicref href="topics/nist.gov/id.am-02/imp-examples.md" audience="general" product="csf20" format="markdown"/>

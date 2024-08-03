@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="L">
+    <title><keyword keyref="L"/></title>
+    <body>
+        <p>Document an inventory of manufacturing system software and firmware components that reflects the current system.</p>
+        <p>Manufacturing system software components include for example software license information, software version numbers, Human Machine Interface (HMI) and other ICS component applications, software, operating systems. System software inventory is reviewed and updated as defined by the organization.</p>
+    </body>
+</topic>

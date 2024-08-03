@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="L">
+    <title><keyword keyref="L"/></title>
+    <body>
+        <p>Identify and document all external connections for the manufacturing system.</p>
+        <p>Examples of external systems include engineering design services, and those that are controlled under separate authority, personal devices, and other hosted services.</p>
+    </body>
+</topic>
