@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="LMH">
+    <title><keyword keyref="LMH"/></title>
+    <body>
+        <p>Ensure that a baseline of network operations and expected data flows for the manufacturing system is developed, documented, and maintained to detect events.</p>
+    </body>
+</topic>
