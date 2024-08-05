@@ -6,15 +6,17 @@
    * 3D data formats such as STL and AMF
    * Data formats for downstream processing steps such as slicing specifications and G-code
    * Process parameters
-   * PII and PHI included in the part specification 
 
-2. Continuously discover and analyze ad hoc data to identify new instances 
-   of designated data types <!-- additive-specific examples? -->
+2. Classify data types by mapping them to the F3490 common dictionary, and whether they may contain PII.
+   For example, an ISO 10303 CAD file could contain PII, but the STL format lacks the ability to specify metadata that could be PII.
 
-3. Assign data classifications to designated data types through tags or 
-   labels <!-- additive-specific examples? -->
+3. Continuously discover and analyze ad hoc data to identify new instances 
+   of designated data types 
 
-4. Track data provenance, ownership, and geolocation within additive workflows 
-to identify and document the location of critical parts and where additive manufacturing 
-data is processed
+   <!-- The following examples should be dropped unless we 
+   can make them more additive-specific 
+   
+   5. Track data provenance, ownership, and geolocation within additive workflows 
+   to identify and document the location of critical parts and where additive manufacturing 
+   data is processed  -->
     
