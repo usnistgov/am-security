@@ -2199,91 +2199,6 @@
                         </profileConditionsSetInfo-array>
                     </entry>
                     <entry>
-                        <String>scenario.associations</String>
-                        <scenarioAssociation-array>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>am-security.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>MS Office Word - CSF Profile</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>topics.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>MS Office Word - CSF Profile</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>id.am-01.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>PDF - based on HTML5 &amp; CSS</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>out/dita/ot-id.am.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>ot-id (Normalized DITA)</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                        </scenarioAssociation-array>
-                    </entry>
-                    <entry>
                         <String>scenarios</String>
                         <scenario-array>
                             <ditaScenario>
@@ -4049,6 +3964,10 @@
                                 <Integer>1</Integer>
                             </field>
                         </spellCheckOptions>
+                    </entry>
+                    <entry>
+                        <String>storage.level.scenario.associations</String>
+                        <Boolean>false</Boolean>
                     </entry>
                 </serializableOrderedMap>
             </serialized>
