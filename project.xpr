@@ -2196,6 +2196,40 @@
                                     <null/>
                                 </field>
                             </profileConditionsSetInfo>
+                            <profileConditionsSetInfo>
+                                <field name="conditions">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>audience</String>
+                                            <String-array>
+                                                <String>additive</String>
+                                                <String>general</String>
+                                            </String-array>
+                                        </entry>
+                                        <entry>
+                                            <String>otherprops</String>
+                                            <String-array>
+                                                <String>id.am-03</String>
+                                            </String-array>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="documentTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="conditionSetName">
+                                    <String>ID.AM-03 General+Additive</String>
+                                </field>
+                                <field name="ditavalFile">
+                                    <String></String>
+                                </field>
+                                <field name="useDITAVAL">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="shortcut">
+                                    <null/>
+                                </field>
+                            </profileConditionsSetInfo>
                         </profileConditionsSetInfo-array>
                     </entry>
                     <entry>
