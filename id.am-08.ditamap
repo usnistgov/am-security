@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <topichead navtitle="ID.AM-08">
-        <topicref href="topics/nist.gov/id.am-08/statement.dita" audience="general" product="csf20"/>
+        <topicref href="topics/nist.gov/id.am-08/statement.dita" audience="general"/>
         <topicref href="topics/nist.gov/SP800-82r3/pr.ds/ot.dita" audience="ot" product="800-82"/>
         <topicref href="topics/nist.gov/SP800-82r3/pr.ma/ot.dita" audience="ot" product="800-82"/>
         <topicref href="topics/nist.gov/ASTM/id.am-08/guidance.md" audience="additive" product="wk78322" format="markdown"/>

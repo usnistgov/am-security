@@ -2,7 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <topichead navtitle="ID.AM-03">
-        <topicref href="topics/nist.gov/id.am-03/statement.dita" audience="general" product="csf20"/>
+        <topicref href="topics/nist.gov/id.am-03/statement.dita" audience="general"/>
+        <topicref href="topics/nist.gov/id.am-03/imp-examples.md" audience="general" product="csf20" format="markdown"/>
         <topicref href="topics/nist.gov/SP800-82r3/id.am-03/general.dita" audience="general" product="800-82"/>
         <topicref href="topics/nist.gov/SP800-82r3/id.am-03/ot.dita" audience="ot" product="800-82"/>
         <topicref href="topics/nist.gov/SP800-82r3/de.ae/ot.dita" audience="ot" product="800-82"/>
@@ -11,8 +12,9 @@
             <topicref href="topics/nist.gov/NISTIR8183r1/id.am-03/MH.dita"/>
             <topicref href="topics/nist.gov/NISTIR8183r1/de.ae-01/LMH.dita"/>
         </topichead>
-        <topicref href="topics/nist.gov/ASTM/id.am-03.md" audience="additive" product="wk78322"
+        <topicref href="topics/nist.gov/ASTM/id.am-03/additive.md" audience="additive" product="wk78322"
             format="markdown"/>
-        <topicref href="topics/nist.gov/id.am-03/imp-examples.md" audience="general" product="csf20" format="markdown"/>
+        <topicref href="topics/nist.gov/ASTM/id.am-03/imp-examples.md" audience="additive" product="wk78322" 
+            format="markdown"/>
     </topichead>
 </map>
