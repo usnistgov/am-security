@@ -2001,8 +2001,6 @@
                                         <entry>
                                             <String>product</String>
                                             <String-array>
-                                                <String>800-82</String>
-                                                <String>csf20</String>
                                                 <String>wk78322</String>
                                             </String-array>
                                         </entry>
